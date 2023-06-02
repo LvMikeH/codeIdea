@@ -1,5 +1,4 @@
 # codeIdea
-// package tictactoe;
 
 import java.util.Scanner;
 
@@ -149,5 +148,4 @@ public class Main {
             return "NotInLine";
         }
     }
-
 }
